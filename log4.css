@@ -1,0 +1,75 @@
+*{
+    margin: 0%;
+    padding: 0%;
+
+}
+body{
+    background-color: chartreuse;
+    background-size: 100% 740px;
+   
+
+}
+.contain{
+    width: 300px;
+    height: 400px;
+    text-align: center;
+    color: white;
+    margin-left: 40%;
+    margin-top: 12%;
+    background-color:  black;
+    border-radius: 22PX;
+}
+.contain.text{
+    position: relative;
+    top: 7%;
+    
+
+}
+.inp1{
+    border: none;
+    background-color: black;
+    border-bottom: 2px solid white;
+    width: 250px;
+    font-size: 22px;
+    margin-top: 40px;
+    outline: none;
+    color: white;
+}
+.inp2{
+    border: none;
+    background-color: black;
+    border-bottom: 2px solid white;
+    width: 250px;
+    font-size: 22px;
+    margin-top: 40px;
+    outline: none;
+    color: white;
+}
+.text button{
+    width: 250px;
+    height: 44px;
+    background-color: aqua;
+    color: black;
+    border: none;
+    font-size: 22PX;
+    border-radius: 25PX;
+    margin-top: 20px;
+    cursor: pointer;
+}
+button:hover{
+    border: 3px solid aqua;
+    color: white;
+    font-size: 20px;
+    background-color: black;
+}
+p{
+    margin-top: 30px;
+    font-size: 22px;
+}
+p span{
+    color: aqua;
+}
+.contain h1{
+    font-size: 36px;
+    color:aqua;
+}
